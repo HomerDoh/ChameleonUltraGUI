@@ -14,6 +14,8 @@ migrate_working_dir/
 
 # vscode/cursor related
 .vs/
+.vs/**/*
+.vs/chameleonultragui/**/*
 
 # IntelliJ related
 *.iml
